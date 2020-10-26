@@ -1,0 +1,8 @@
+# Test's requirements
+# List all packages required to run the tests (used in the CI).
+
+-r requirements.txt
+
+pytest==4.4.1
+pytest-flask==0.14.0
+pytest-mock==3.3.1

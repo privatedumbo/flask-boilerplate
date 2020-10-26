@@ -1,0 +1,8 @@
+# Production requirements
+# List all packages that needed during runtime.
+werkzeug==0.16.1
+flask-restx
+flask-sqlalchemy
+flask-accepts
+requests
+schema
